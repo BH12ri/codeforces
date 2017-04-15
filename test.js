@@ -85,7 +85,7 @@ function ED(){
     var regtime=document.getElementById("regtime");
     regtime.innerHTML="";
 	
-	document.getElementById("table").style="";
+	
 }
 	
 	
